@@ -1,0 +1,32 @@
+/* TourStyles.css */
+
+.my-custom-popover .driver-popover {
+  background-color: #f0f0f0;
+  border: 2px solid #333;
+  border-radius: 4px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.my-custom-popover .driver-popover .driver-popover-title {
+  font-weight: bold;
+  color: #333;
+}
+
+.my-custom-popover .driver-popover .driver-popover-description {
+  color: #666;
+}
+
+.tour-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.tour-button:hover {
+  background-color: #0056b3;
+}
